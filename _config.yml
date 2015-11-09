@@ -1,0 +1,23 @@
+name: GemmaZoeJonesArt
+favicon: null
+layout_spectrum: 0.8339305119588971
+typography_spectrum: 0.5988541140686721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03521076589822769
+  lightness: 0.9256634826306254
+  saturation: 0.760351354489103
+  rhythmicContrast: 0.11567201558500528
+purpose: []
