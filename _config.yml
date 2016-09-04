@@ -1,23 +1,35 @@
-name: GemmaZoeJonesArt
-favicon: null
-layout_spectrum: 0.8339305119588971
-typography_spectrum: 0.5988541140686721
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8727599
+  brandStrength: 0.03521076589822769
+  lightness: 0.9256635
+  brandColors: []
+  rhythmicContrast: 0.115672
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: GemmaZoeJonesArt
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.03521076589822769
-  lightness: 0.9256634826306254
-  saturation: 0.760351354489103
-  rhythmicContrast: 0.11567201558500528
-purpose: []
+typography_spectrum: 0.265233
+layout_spectrum: 0.9444444
